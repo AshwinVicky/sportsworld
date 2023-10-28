@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title>Sports Page</title>
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif;
+
+background-color: #7ddcc4;
+
+margin: 0;
+
+padding: 0;
+}
+header {
+
+background-color: #333;
+
+color: #84c7af;
+
+text-align: center;
+
+padding: 20px;
+}
+.container {
+
+max-width: 800px;
+
+margin: 0 auto;
+
+padding: 20px;
+
+background-color: #8cd759fff;
+
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+
+font-size: 28px;
+}
+P {
+
+font-size: 16px;
+}
+.sports-image {
+
+max-width: 100%;
+
+height: auto;
+
+margin: 20px 0;
+}
+.sport-details {
+
+text-align: center;
+}
+.sport-details h2 { font-size: 24px;
+}
+.sport-details p{
+
+font-size: 18px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Welcome to Sports World</h1>
+
+</header>
+
+<div class="container">
+
+<h2>About Our Sport</h2>
+
+<p>This is about Hand Ball sports-themed webpage created using HTML and CSS.</p>
+
+<img class="sports-image" src="handball.jpg alt="Sports Image">
+
+<img class="sports-image" src="sport.jpg">
+
+<div class="sport-details"> <h2>Sport Details</h2>
+
+<p>Handball is a team sport in which two teams of seven players each pass a ball using their hands with the aim of throwing it into the goal of the opposing team. A standard match consists of two periods of 30 minutes, and the team that scores more goals
+
+wins.
+
+Equipment: Ball and goals
+
+First played: 2 December 1917; 105 years ago in Berlin, Germany.
+
+Contact: Limited
+
+World Games: Beach handball: 2001 present (invitational sport before 2013)
+
+Country or region: Worldwide but most popular in Europe</p>
+
+</div>
+
+<p>Sport-specific information can go here.</p>
+
+</div>
+
+</body>
+
+</html>
